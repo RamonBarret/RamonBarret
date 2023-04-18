@@ -6,7 +6,7 @@
 <p align="justify">I discovered myself in the area of ​​technology and I'm completely excited about the learnings and changes that we can contribute and develop, creating solutions.
 I'm focused on learning <strong>Front-End</strong> (<strong>ReactJS</strong>, <strong>ReactNative</strong>, <strong>Node</strong> and other technologies in the field).</p>
 <p align="justify">My goal is to become a <strong>Fullstack Developer</strong> (Back-End and Front-End), with focus and dedication i will achieve!</p>
-<p>// Passionate about <strong>Software Development</strong>, <strong>Data</strong> and <strong>Cloud Computing</strong>. 💙</p>
+<p>// I'm Passionate about <strong>Software Development</strong>, <strong>Data</strong> and <strong>Cloud Computing</strong>. 💙</p>
 
 <h2>▪◽ Knowledge ◽▪</h2>
 <h3>Programming Languages 👨🏽‍💻</h3>
