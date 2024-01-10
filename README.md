@@ -36,7 +36,7 @@
 
 <h3>Ferramentas de Versionamento</h3>
 <div style="display:flex">
-  <img src = "https://git-scm.com/images/logo@2x.png" alt = "git" />
+  <img src = "https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974)" alt = "git"/>
 </div>
 
 <h2></h2>
