@@ -8,26 +8,24 @@ I'm focused on learning <strong>Front-End</strong> (<strong>ReactJS</strong>, <s
 <h2>▪◽ Knowledge ◽▪</h2>
 <h3>Programming Languages</h3>
 <div style="display:flex">
-  <img height="30em" src="[https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b](https://camo.githubusercontent.com/77a94341662845d3740986b84d8219c0fd4a0a9e4af8e5411c24cec0faee2129/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)"/>
-  <img height="30em" src=""/>
-  <img height="30em" src=""/>
-  <img height="30em" src=""/>
-  <img height="50em" src=""/>
-  <img height="50em" src=""/>
+  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
+  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
 </div>
 
 <h3>Markup and Styling Languages</h3>
 <div style="display:flex">
-  <img height="30em" src=""/>
-  <img height="30em" src=""/>
+   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
+   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
 </div>
     
 <h3>Frameworks and Libraries</h3>
 <div style="display:flex">
-  <img height="30em" src=""/>
-  <img height="30em" src=""/>
-  <img height="30em" src=""/>
-  <img height="30em" src=""/>
+  <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "react" />
+</div>
+
+<h3>Databases</h3>
+<div style="display:flex">
+  <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
 </div>
 
 <h2></h2>
