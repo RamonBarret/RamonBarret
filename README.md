@@ -41,6 +41,7 @@
 </div>
 
 <h2>Aprendendo 📖</h2>
+<div style="display:flex">
   <img src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt = "aws" />
   <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt = ".net" /> 
 </div>
