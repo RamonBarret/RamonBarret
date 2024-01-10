@@ -1,31 +1,37 @@
-<h1 align="center"> Hello World,  I'm Ramon Barreto 🙋🏽‍♂️ </h1>
-<h2 align="center">Welcome to my Github  🤝🏼</h2>
-<h2>▪◽ About me ◽▪</h2>
-<p align="justify">I discovered myself in the area of ​​technology and I'm completely excited about the learnings and changes that we can contribute and develop, creating solutions.
-I'm focused on learning <strong>Front-End</strong> (<strong>ReactJS</strong>, <strong>ReactNative</strong>, <strong>Node</strong> and other technologies in the field).</p>
-<p align="justify">My goal is to become a <strong>Fullstack Developer</strong> (Back-End and Front-End), with focus and dedication i will achieve!</p>
+<h1 align="center"> Olá!  Eu sou o Ramon Barreto 🙋🏽‍♂️ </h1>
 
-<h2>▪◽ Knowledge ◽▪</h2>
-<h3>Programming Languages</h3>
+<h2>▪◽ Sobre mim ◽▪</h2>
+
+- Estudando o último semestre de Análise e Desenvovimento de Sistemas
+- Desenvolvedor Front-end autodidata, com uma boa noção sobre Back-end 🧑🏽‍💻
+- E-mail para contato: ramon_barreto_medrado@hotmail.com 
+
+<h2>▪◽ Conhecimentos ◽▪</h2>
+<h3>Linguagens de Programação</h3>
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
 </div>
 
-<h3>Markup and Styling Languages</h3>
+<h3>Linguagem de Marcação e Estilização</h3>
 <div style="display:flex">
    <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
    <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
 </div>
     
-<h3>Frameworks and Libraries</h3>
+<h3>Frameworks e Bibliotecas</h3>
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "react" />
 </div>
 
-<h3>Databases</h3>
+<h3>Bancos de Dados</h3>
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
+</div>
+
+<h3>Ferramentas de Design</h3>
+<div style="display:flex">
+  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
 </div>
 
 <h2></h2>
@@ -36,7 +42,7 @@ I'm focused on learning <strong>Front-End</strong> (<strong>ReactJS</strong>, <s
 </div>
 <h2></h2>  
 
- <h2><strong>Connecct with me</strong>📲</h2>
+ <h2>🔌<strong>Conecte-se comigo!</strong>📲</h2>
  <div style="display:flex">
   <a href="https://github.com/RamonBarret" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
@@ -47,3 +53,4 @@ I'm focused on learning <strong>Front-End</strong> (<strong>ReactJS</strong>, <s
  </div>
 
 ![Snake animation](https://github.com/RamonBarret/RamonBarret/blob/output/github-contribution-grid-snake.svg)
+
