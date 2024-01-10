@@ -4,13 +4,14 @@
 
 - Estudando o último semestre de Análise e Desenvovimento de Sistemas
 - Desenvolvedor Front-end autodidata, com uma boa noção sobre Back-end 🧑🏽‍💻
-- E-mail para contato: ramon_barreto_medrado@hotmail.com 
+- E-mail para contato: ramon_barreto_medrado@hotmail.com
+- [![Hotmail Badge](https://img.shields.io/badge/-ramon_barreto_medrado@hotmail.com-00875f?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:ramon_barreto_medrado@hotmail.com)](mailto:ramon_barreto_medrado@hotmail.com)
 
 <h2>▪◽ Conhecimentos ◽▪</h2>
 <h3>Linguagens de Programação</h3>
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
+  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" /> 
 </div>
 
 <h3>Linguagem de Marcação e Estilização</h3>
