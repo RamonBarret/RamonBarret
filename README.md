@@ -34,6 +34,11 @@
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
 </div>
 
+<h3>Ferramentas de Versionamento</h3>
+<div style="display:flex">
+  <img src = "https://git-scm.com/images/logo@2x.png" alt = "git" />
+</div>
+
 <h2></h2>
 <div align=center>
   <a href="https://github.com/RamonBarret">
