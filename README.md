@@ -12,7 +12,6 @@
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" /> 
   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt = "java" /> 
-  <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "csharp" /> 
   <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt = "node" /> 
 </div>
 
@@ -39,11 +38,6 @@
 <h3>Ferramentas de Design</h3>
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
-</div>
-
-<h3>Ferramentas de Versionamento</h3>
-<div style="display:flex">
-  <img src = "https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974)" alt = "git"/>
 </div>
 
 <h3>Aprendendo 📖</h2>
