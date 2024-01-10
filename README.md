@@ -1,12 +1,12 @@
 <h1 align="center"> Olá!  Eu sou o Ramon Barreto 🙋🏽‍♂️ </h1>
 
-<h2>▪◽ Sobre mim ◽▪</h2>
+<h2>Sobre mim</h2>
 
 - Estudando o último semestre de Análise e Desenvovimento de Sistemas
 - Desenvolvedor Front-end autodidata, com uma boa noção sobre Back-end 🧑🏽‍💻
 - E-mail para contato: ramon_barreto_medrado@hotmail.com
 
-<h2>▪◽ Conhecimentos ◽▪</h2>
+<h2>◽ Conhecimentos</h2>
 <h3>Linguagens de Programação</h3>
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
@@ -40,7 +40,7 @@
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
 </div>
 
-<h3>Aprendendo 📖</h2>
+<h2>◽Aprendendo 📖</h2>
   <img src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt = "aws" />
   <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt = ".net" /> 
 </div>
