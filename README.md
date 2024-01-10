@@ -11,7 +11,8 @@
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" /> 
-  <img src = "https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white" alt = "java" /> 
+  <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt = "java" /> 
+  <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "csharp" /> 
 </div>
 
 <h3>Linguagem de Marcação e Estilização</h3>
@@ -23,12 +24,16 @@
 <h3>Frameworks e Bibliotecas</h3>
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "react" />
-  <img src = "https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind&logoColor=61DAFB" alt = "tailwind" />
+  <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind"/>
+  <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstarp"/>
+  <img src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt = "saas"/>
+  <img src = "" alt = "bootstarp"/>
 </div>
 
 <h3>Bancos de Dados</h3>
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
+  <img src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt = "sql" />
 </div>
 
 <h3>Ferramentas de Design</h3>
@@ -39,6 +44,12 @@
 <h3>Ferramentas de Versionamento</h3>
 <div style="display:flex">
   <img src = "https://camo.githubusercontent.com/97355a4f48ed3fe5d9763f1d151b4b9716c0e444461c9b54512042336886ba7e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974)" alt = "git"/>
+</div>
+
+<h3>Aprendendo 📖</h2>
+  <img src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt = "aws" />
+  <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt = ".net" /> 
+  <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt = "node" /> 
 </div>
 
 <h2></h2>
@@ -59,5 +70,5 @@
   </a>
  </div>
 
-![Snake animation](https://github.com/RamonBarret/RamonBarret/blob/output/github-contribution-grid-snake.svg)
+
 
