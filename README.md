@@ -4,7 +4,7 @@
 
 - Estudando o último semestre de Análise e Desenvovimento de Sistemas 🧑🏽‍🎓
 - Desenvolvedor Front-end autodidata, com uma boa noção sobre Back-end 🧑🏽‍💻
-- Pretendo me tornar um desenvolvedor FullStack 🚀
+- Pretendo me tornar um Desenvolvedor FullStack 🚀
 - E-mail para contato: ramon_barreto_medrado@hotmail.com 📬
 
 <h2>Conhecimentos 📚</h2>
