@@ -29,14 +29,17 @@
   <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt = "dotnet" />
   <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "react" />
   <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "tailwind"/>
+  <img src = "https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt = "styledComponents"/>
   <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstarp"/>
   <img src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt = "saas"/>
+  <img src = "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt = "jquery"/>
 </div>
 
 <h3>Bancos de Dados</h3>
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
   <img src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt = "sql" />
+  <img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt = "sqlite" />
 </div>
 
 <h3>Ferramentas de Design</h3>
@@ -47,6 +50,9 @@
 <h2>Aprendendo 📖</h2>
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt = "aws" />
+  <img src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt = "angular" />
+  <img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt = "expressJs" />
+  <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
 </div>
 
 <h2></h2>
