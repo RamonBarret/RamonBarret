@@ -3,7 +3,6 @@
 <h2>Sobre mim</h2>
 
 - Desenvolvedor Front-end autodidata, com uma boa noção sobre Back-end 🧑🏽‍💻
-- Pretendo me tornar um Desenvolvedor FullStack 🚀
 - E-mail para contato: ramon_barreto_medrado@hotmail.com 📬
 
 <h2>Conhecimentos 📚</h2>
