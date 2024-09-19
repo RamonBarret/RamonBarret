@@ -37,7 +37,6 @@
 <div style="display:flex">
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
   <img src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt = "sql" />
-  <img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt = "sqlite" />
 </div>
 
 <h3>Design Tools</h3>
