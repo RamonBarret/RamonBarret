@@ -52,11 +52,13 @@
   <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
 </div>
 
+<h2></h2>
 <div align=center>
   <a href="https://github.com/RamonBarret">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RamonBarret&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonBarret&layout=compact&langs_count=7&theme=dark"/><br>
 </div>
+<h2></h2>
 
  <h2>🔌<strong>Connect with me!</strong>📲</h2>
  <div style="display:flex">
