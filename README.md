@@ -3,7 +3,7 @@
 <p> I'm Front-end Developer, with a good understanding of Back-end 🧑🏽‍💻</p>
 
 <p> Contact email: ramon_barreto_medrado@hotmail.com 📬</p>
-
+<br/>
 <h2>Knowledge 📚</h2>
 <h3>Programming Languages</h3>
 <div style="display:flex">
