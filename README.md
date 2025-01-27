@@ -44,14 +44,6 @@
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
 </div>
 
-<h2>Learning 📖</h2>
-<div style="display:flex">
-  <img src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt = "aws" />
-  <img src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt = "angular" />
-  <img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt = "expressJs" />
-  <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt = "mongodb" />
-</div>
-
 <h2></h2>
 <div align=center>
   <a href="https://github.com/RamonBarret">
