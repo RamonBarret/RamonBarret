@@ -1,9 +1,8 @@
 <h1 align="center"> Hello!  I'm Ramon Barreto 🙋🏽‍♂️ </h1>
 
-<h2>About me</h2>
+<h2> I'm Front-end Developer, with a good understanding of Back-end 🧑🏽‍💻</h2>
 
-- Front-end Developer, with a good understanding of Back-end 🧑🏽‍💻
-- Contact email: ramon_barreto_medrado@hotmail.com 📬
+<h3> Contact email: ramon_barreto_medrado@hotmail.com 📬</h3>
 
 <h2>Knowledge 📚</h2>
 <h3>Programming Languages</h3>
